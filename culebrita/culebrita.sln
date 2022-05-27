@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "culebrita", "culebrita\culebrita.csproj", "{976F4829-D342-4C10-AA71-3AE5C24AB74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976F4829-D342-4C10-AA71-3AE5C24AB74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976F4829-D342-4C10-AA71-3AE5C24AB74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976F4829-D342-4C10-AA71-3AE5C24AB74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976F4829-D342-4C10-AA71-3AE5C24AB74A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A8F62B-D92A-46A2-BC71-F7427AB8D778}
+	EndGlobalSection
+EndGlobal
